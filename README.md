@@ -1,4 +1,4 @@
-<h1>README: Proyecto Alura - Vanesa Larroza</h1>
+<h1>Proyecto Alura - Vanesa Larroza</h1>
 
  <h2>Índice</h2>
     <ol>
